@@ -1,0 +1,33 @@
+img
+{
+    width: 200px;
+    height: 250px;
+
+}
+div
+{
+    margin-top: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px   ;
+}
+h2
+{
+    margin: 0%;
+}
+.info
+{
+    display: flex;
+    gap: 0px ;
+    flex-direction: column;
+}
+h3
+{
+    margin: 0px;
+}
+.tit
+{
+    font-size: 12px;
+}

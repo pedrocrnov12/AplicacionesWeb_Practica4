@@ -1,0 +1,183 @@
+body{
+    background-color: black;
+ }
+ .tittle{
+     font-size: xx-large;
+     text-align: center;
+     background-color: gold;
+ }
+ 
+ 
+ 
+ .f1{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin: 1% auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .f2{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin: 1% auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .f3{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin: 1% auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .f4{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin: 1% auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .f5{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin: auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .A6{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin:  auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+ }
+ 
+ .A7{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin: 1% auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .B8{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin: 1% auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .B9{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin: 1% auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .B10{
+     width: 20%;
+     height: 20%;
+     background: white;
+     margin: 1% auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+     
+ }
+ .B11{
+    width: 20%;
+    height: 20%;
+    background: white;
+    margin: 1% auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: large;
+    border-bottom: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .B12{
+    width: 20%;
+    height: 20%;
+    background: white;
+    margin: 1% auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: large;
+    border-bottom: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .B13{
+    width: 20%;
+    height: 20%;
+    background: white;
+    margin: 1% auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: large;
+    border-bottom: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .enviar{
+     width: 60%;
+     height: 20%;
+     background: gold;
+     margin: 1% auto;
+     padding: 10px;
+     border-radius: 10px;
+     text-align: center;
+     font-size: large;
+     border-bottom: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
